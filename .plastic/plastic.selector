@@ -1,4 +1,0 @@
-repository "BLACKhole2d@SPACERPG@cloud"
-  path "/"
-    br "/main"
-    co "/main"
